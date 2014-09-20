@@ -1,0 +1,16 @@
+#map {
+    height: 800px;
+    width: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.floatLeft{
+    float: left;
+}
+
+.floatRight{
+    float: right;
+}
+#sideBar{
+    padding-left: 20px;
+}
